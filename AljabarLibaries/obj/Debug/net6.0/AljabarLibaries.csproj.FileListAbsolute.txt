@@ -1,0 +1,12 @@
+E:\PraktikumOnline\tpmodul10_1302210134\AljabarLibaries\bin\Debug\net6.0\AljabarLibaries.deps.json
+E:\PraktikumOnline\tpmodul10_1302210134\AljabarLibaries\bin\Debug\net6.0\AljabarLibaries.dll
+E:\PraktikumOnline\tpmodul10_1302210134\AljabarLibaries\bin\Debug\net6.0\AljabarLibaries.pdb
+E:\PraktikumOnline\tpmodul10_1302210134\AljabarLibaries\obj\Debug\net6.0\AljabarLibaries.csproj.AssemblyReference.cache
+E:\PraktikumOnline\tpmodul10_1302210134\AljabarLibaries\obj\Debug\net6.0\AljabarLibaries.GeneratedMSBuildEditorConfig.editorconfig
+E:\PraktikumOnline\tpmodul10_1302210134\AljabarLibaries\obj\Debug\net6.0\AljabarLibaries.AssemblyInfoInputs.cache
+E:\PraktikumOnline\tpmodul10_1302210134\AljabarLibaries\obj\Debug\net6.0\AljabarLibaries.AssemblyInfo.cs
+E:\PraktikumOnline\tpmodul10_1302210134\AljabarLibaries\obj\Debug\net6.0\AljabarLibaries.csproj.CoreCompileInputs.cache
+E:\PraktikumOnline\tpmodul10_1302210134\AljabarLibaries\obj\Debug\net6.0\AljabarLibaries.dll
+E:\PraktikumOnline\tpmodul10_1302210134\AljabarLibaries\obj\Debug\net6.0\refint\AljabarLibaries.dll
+E:\PraktikumOnline\tpmodul10_1302210134\AljabarLibaries\obj\Debug\net6.0\AljabarLibaries.pdb
+E:\PraktikumOnline\tpmodul10_1302210134\AljabarLibaries\obj\Debug\net6.0\ref\AljabarLibaries.dll
